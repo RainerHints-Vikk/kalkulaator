@@ -19,13 +19,18 @@ class cal():
         return math.sqrt(self.a)
     def astendamine(self):
         return self.a ** self.b
+    def protsent(self):
+        return self.b / self.a * 100
+    def (self):
+        return
+
 a = int(input("Sisesta esimene number: "))
 b = int(input("Sisesta teine number: "))
 
 kalk = cal(a,b)
 while True:
     def menu():
-        x = ('1. Liitmine \n2. lahutamine\n3. korrutamine\n4. jagamine\n5. Jäägi leidmine\n6. Ruutjuure leidmine\n7. astendamine. ')
+        x = ('1. Liitmine \n2. lahutamine\n3. korrutamine\n4. jagamine\n5. Jäägi leidmine\n6. Ruutjuure leidmine\n7. astendamine\n8. protsent. ')
         print(x)
     menu()
     valik = int(input('Sisesta üks valikutest: '))
@@ -49,6 +54,9 @@ while True:
         break
     elif valik == 7:
         print("Vastus: ", kalk.astendamine())
+        break
+    elif valik == 8:
+        print("Vastus: ", kalk.protsent())
         break
     elif valik == 0:
         print('Sisesta uuesti üks liitmise operaator')
