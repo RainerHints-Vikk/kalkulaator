@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ac3816-5584-4cd7-8230-c7f28bd00c37" name="Changes" comment="" />
+    <list default="true" id="e2ac3816-5584-4cd7-8230-c7f28bd00c37" name="Changes" comment="lisatud protsendi liitmine arvule">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RainerHints-Vikk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RainerHints-Vikk/kalkulaator.git",
+    "accountId": "32b2af19-b2fe-4578-9203-5f4ebb12d2b6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -21,7 +46,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.calc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -41,6 +68,34 @@
       <option name="presentableId" value="Default" />
       <updated>1739276529497</updated>
     </task>
+    <task id="LOCAL−00001" summary="fixed square root">
+      <option name="closed" value="true" />
+      <created>1739277627505</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1739277627505</updated>
+    </task>
+    <task id="LOCAL−00002" summary="added protsent">
+      <option name="closed" value="true" />
+      <created>1739278905233</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1739278905233</updated>
+    </task>
+    <task id="LOCAL−00003" summary="lisatud protsendi liitmine arvule">
+      <option name="closed" value="true" />
+      <created>1739279831425</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1739279831425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed square root" />
+    <MESSAGE value="added protsent" />
+    <MESSAGE value="lisatud protsendi liitmine arvule" />
+    <option name="LAST_COMMIT_MESSAGE" value="lisatud protsendi liitmine arvule" />
   </component>
 </project>
